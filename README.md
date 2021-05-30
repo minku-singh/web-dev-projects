@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [minku-singh](https://{github.com/minku-singh})
-- Twitter [minkusingh_](https://{twitter.com/minkusingh_})
+- GitHub [minku-singh](https://github.com/minku-singh)
+- Twitter [minkusingh_](https://twitter.com/minkusingh_)
